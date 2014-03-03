@@ -1,0 +1,6 @@
+{
+"commander":"http://127.0.0.1:80",
+"shell":"bash",
+"hostname":"127.0.0.1",
+"port":9090
+}
